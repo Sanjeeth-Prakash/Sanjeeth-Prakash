@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sanjeeth Prakash</h1>
-<h3 align="center">Final-year IT student at PSG College of Technology | Passionate about Software Dev, AI, and Smart Systems</h3>
+<h3 align="center">Final-year IT student at PSG College of Technology | Passionate about Software Dev, AI, and Machine Learning</h3>
 
 - 🔭 Currently working on **Adaptive Traffic Signal System using YOLOv8 and LLMs**
 - 🌱 Learning **Data Structures & Algorithms** and diving deeper into **AI/ML**
-- 💻 Built **MuviTracker** – a movie/series tracking app using Trakt, Tmdb, Omdb APIs
+- 💻 Built **Projects on Machine Learning and Mobile Applications using Android Studio**
 - 🎯 Final Year Project: Emergency Vehicle Detection + Smart Traffic Light using **YOLOv8**, **LLMs**, **SUMO**, and **TraCI**
 - 🤝 Open to collaborating on Web/Mobile apps, AI Projects, and Research Work
 - 📫 Reach me at **sanjeethprakash2004@gmail.com**
-- ⚡ Fun fact: I speak **English**, **Tamil**, and a bit of **French** 🇫🇷
+- ⚡ Fun fact: I speak **English**, **Tamil**, and a bit of **French**
 
 ---
 
@@ -35,12 +35,6 @@
 ### 📄 Resume & Links
 
 - [My Resume (PDF)](mailto:sanjeethprakash2004@gmail.com) – Email me for a copy
-- 🔗 [TMDB](https://developer.themoviedb.org/docs/getting-started) | [Trakt API](https://trakt.docs.apiary.io/) | [OMDb](https://www.omdbapi.com/)
-- 🎓 [Coursera – Intro to Recommender Systems](https://www.coursera.org/learn/recommender-systems)
 
 ---
 
-### 📊 GitHub Stats (optional)
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=SanjeethPrakash&show_icons=true&theme=radical" />
-</p>
