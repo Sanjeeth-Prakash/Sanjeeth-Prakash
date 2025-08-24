@@ -14,9 +14,9 @@
 - ⚡ Fun fact: I speak **English**, **Tamil**, and a bit of **French**
 
 ---
-![325895973-e4f28204-ea88-4364-a321-8330c3fbde6a](https://github.com/user-attachments/assets/6a24eaf1-ef19-4188-9a93-b833588e373c)
 
-### 🛠️ Languages and Tools
+
+![325895973-e4f28204-ea88-4364-a321-8330c3fbde6a](https://github.com/user-attachments/assets/6a24eaf1-ef19-4188-9a93-b833588e373c)### 🛠️ Languages and Tools
 
 #### 👨‍💻 I code in
 <p>
