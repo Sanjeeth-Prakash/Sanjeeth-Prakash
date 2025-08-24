@@ -1,6 +1,8 @@
 
-![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/032c1f49-1522-437a-aa6f-6922ad9c7aff)
+
 <h1 align="center">Hi 👋, I'm Sanjeeth Prakash</h1>
+
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/032c1f49-1522-437a-aa6f-6922ad9c7aff)
 
 <h3 align="center">Final-year IT student at PSG College of Technology | Passionate about Software Dev, AI, and Machine Learning</h3>
 
