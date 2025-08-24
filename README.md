@@ -15,7 +15,7 @@
 
 ### 📄 Links & Resume
 - [My Resume (PDF)](mailto:sanjeethprakash2004@gmail.com) – Email me for a copy
-- [LinkedIn]([www.linkedin.com/in/sanjeethprakash])
+- [LinkedIn](https://www.linkedin.com/in/sanjeeth-prakash/)
 - [Portfolio](https://sanjeethprakash.framer.website)
 
 ---
