@@ -4,7 +4,7 @@
 
 <h3 align="center">Final-year IT student at PSG College of Technology | Passionate about Software Dev, AI, and Machine Learning</h3>
 
-- 🔭 Currently working on **Final Year Project:** Emergency Vehicle Detection + Smart Traffic Light using **YOLOv8**, **LLMs**, **SUMO**, and **TraCI**
+- 🔭 Currently working on **Final Year Project:** Privacy Preservation of Medical Records using **PII Redaction** and **k-Anonymity**.
 - 🌱 Learning **Data Structures & Algorithms** and diving deeper into **AI/ML**
 - 💻 Built **Projects on Machine Learning and Mobile Applications using Android Studio**
 - 🤝 Open to collaborating on Web/Mobile apps, AI Projects, and Research Work
