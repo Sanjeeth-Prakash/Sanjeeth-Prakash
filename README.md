@@ -60,7 +60,7 @@
 
 ---
 
-<h2 align="center">📂 Projects</h2>
+<h2 align="center">📂 Academic Projects</h2>
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
