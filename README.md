@@ -9,7 +9,7 @@
 - 💻 Built **Projects on Machine Learning and Mobile Applications using Android Studio**
 - 🤝 Open to collaborating on Web/Mobile apps, AI Projects, and Research Work
 - 📫 Reach me at **sanjeethprakash2004@gmail.com**
-- ⚡ Fun fact: I speak **English**, **Tamil**, and a bit of **French**
+- ⚡ Fun fact: I speak **English**, **Tamil**, **Hindi** and a bit of **French**
 
 ---
 
