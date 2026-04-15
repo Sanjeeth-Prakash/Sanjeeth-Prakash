@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanjeeth Prakash</h1>
+<h1 align="center">Hi, I'm Sanjeeth Prakash</h1>
 
 ![Profile Image](https://github.com/user-attachments/assets/032c1f49-1522-437a-aa6f-6922ad9c7aff)
 
