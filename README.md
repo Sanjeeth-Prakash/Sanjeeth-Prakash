@@ -71,7 +71,3 @@
 | **IoT-Based Emotion Detection & Music Suggestion** | Designed and implemented a system that uses an Arduino and system camera to detect emotion via a **Haar Cascade classifier** and **CNN**, then suggests music accordingly. | <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/> <img src="https://img.shields.io/badge/Music%20API-FF4088?style=for-the-badge&logo=musicbrainz&logoColor=white"/> |
 
 ---
-
-### 🏆 Certifications & Skills
-- **Certifications:** Introduction to Recommender Systems, Python for Everybody, Generative AI Foundations
-- **Soft Skills:** Leadership, Team Collaboration, Critical Thinking, Project Management, Communication, Adaptability
