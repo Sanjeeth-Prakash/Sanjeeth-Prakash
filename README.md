@@ -3,42 +3,49 @@
 
 ![Profile Image](https://github.com/user-attachments/assets/032c1f49-1522-437a-aa6f-6922ad9c7aff)
 
-<h3 align="center">AI Engineering Intern | Information Technology Graduate | AI/ML & Backend Development</h3>
+<h3 align="center">AI Engineering | B.Tech IT Graduate | Machine Learning & Backend Development</h3>
 
-I'm an Information Technology graduate from **PSG College of Technology**, currently working as an **AI Engineering Intern at Yuverse**.
+I'm an Information Technology graduate from **PSG College of Technology**, with hands-on experience in AI engineering, backend development, and applied machine learning.
 
-My work focuses on building practical AI applications, including real-time transcription, multilingual AI assistance, Retrieval-Augmented Generation (RAG), and automated call quality analysis. I also have experience working on recommendation systems, privacy-preserving data processing, and computer vision applications.
+During my internship at **Yuverse (May – November 2026)**, I contributed to real-time AI applications, RAG-powered assistance, automated call quality analysis, and AI model evaluation.
 
-- Currently working on real-time AI applications and automated QA analytics at **Yuverse**.
-- Interested in **AI Engineering, Generative AI, Machine Learning, and Backend Development**.
-- Experienced with Python, API integrations, WebSockets, RAG pipelines, and ML experimentation.
-- Building practical AI engineering projects to strengthen system design, evaluation, and deployment skills.
-- Open to AI engineering, backend engineering, and applied machine learning opportunities.
+My interests lie in developing practical AI solutions, integrating language models into real-world applications, and designing reliable backend systems.
+
+- Experienced in **Python, AI/ML, LLM integration, RAG, REST APIs, and WebSockets**.
+- Worked on AI applications involving real-time transcription, multilingual translation, automated QA evaluation, and sentiment analysis.
+- Developed projects involving recommendation systems, privacy-preserving data processing, computer vision, and Android applications.
+- Currently strengthening my skills in **FastAPI, LLM applications, AI agents, RAG architectures, and backend engineering**.
+- Open to opportunities in **AI Engineering, Applied AI, Machine Learning, and Backend Development**.
 
 ---
 
 ### Work Experience
 
-**AI Engineering Intern — Yuverse** | May 2026 – Present
+**AI Engineering Intern — Yuverse** | May 2026 – November 2026
 
 **Real-Time Agent Assist (RTAA)**
-- Developed Python backend workflows for live transcription, multilingual translation, and RAG-based query assistance.
-- Integrated real-time AI processing through WebSockets and API endpoints.
-- Researched and benchmarked alternative ASR and LLM integrations, focusing on accuracy, latency, and operational cost.
+- Developed Python backend workflows supporting real-time speech transcription, multilingual translation, and RAG-based query assistance for customer-support agents.
+- Worked with WebSockets and API endpoints to enable real-time communication between AI services and application components.
+- Researched and benchmarked alternative ASR and LLM integrations, evaluating transcription quality, response latency, and API cost.
+- Contributed to improving the flexibility and efficiency of AI integrations across real-time application workflows.
 
 **After-Call AI QA Automation & Analytics**
-- Contributed to an AI-powered call analytics platform that processes recordings to generate sentiment insights, issue diagnosis, agent feedback, and structured QA scorecards.
-- Evaluated AI-generated QA scoring sheets against manually prepared human evaluations, observing over 95% agreement in internal comparisons.
-- Experimented with alternative AI models to improve response quality, efficiency, and operational costs.
+- Contributed to an AI-powered platform that analyzes call recordings to generate sentiment insights, issue identification, agent feedback, and structured quality-assurance scorecards.
+- Supported evaluation of AI-generated QA scoring sheets against manually prepared human QA assessments, with internal comparisons indicating over 95% agreement under the team's evaluation approach.
+- Worked on backend components for processing call recordings and generating structured analytical outputs.
+- Experimented with alternative AI model integrations to improve output quality, processing efficiency, and operational costs.
 
 **Data Analyst Intern — LetsGrowMore** | Aug 2025 – Jan 2026
+
 - Performed data cleaning, preprocessing, and exploratory data analysis using Python, Pandas, and NumPy.
-- Created visualizations to identify patterns, communicate findings, and summarize dataset trends.
+- Analyzed datasets to identify patterns, trends, and relationships.
+- Created Python-based visualizations to communicate insights and summarize findings.
 
 **Project Intern — Bellcorp Studio** | Dec 2024 – Apr 2025
-- Developed and experimented with a personalized e-commerce recommendation system using Graph Neural Networks and Reinforcement Learning.
-- Worked with GraphSAGE and Deep Q-Network approaches to analyze user interactions and model personalized recommendations.
-- Conducted model experimentation, performance evaluation, and training pipeline optimization.
+
+- Worked on a personalized e-commerce recommendation system using graph-based learning and reinforcement learning.
+- Experimented with **GraphSAGE, Deep Q-Networks (DQN), and Double DQN** to model user interactions and generate personalized recommendations.
+- Performed dataset preprocessing, model experimentation, performance evaluation, and training pipeline optimization.
 
 ---
 
@@ -109,20 +116,30 @@ My work focuses on building practical AI applications, including real-time trans
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **Privacy Preservation of Medical Records** | Developed a privacy-preserving data processing workflow using PII redaction, k-anonymity, and differential privacy to reduce exposure of sensitive information while supporting data analysis. | Python, Pandas, NLP, Scikit-learn |
-| **Personalized E-commerce Recommendation System** | Developed and experimented with personalized recommendation approaches combining graph-based learning and reinforcement learning. Used GraphSAGE and DQN to model user interactions and improve recommendation strategies. *(Bellcorp Studio)* | Python, PyTorch, Graph Neural Networks, Reinforcement Learning |
-| **Adaptive Traffic Light System for Emergency Vehicle Prioritization** | Designed an intelligent traffic management system using YOLOv8 for emergency vehicle detection and LLM-guided signal control decisions. Simulated traffic conditions using SUMO and TraCI. | Python, YOLOv8, LLM, SUMO, TraCI, Unity |
-| **Cine-Frenzy — Mobile App** | Developed an Android movie and TV series tracker with content discovery, title search, personalized watchlists, API integration, and local data storage. | Kotlin, Android Studio, Trakt API, Room Database |
-| **IoT-Based Emotion Detection & Music Suggestion** | Built a prototype combining computer vision, CNN-based facial emotion recognition, and Arduino-based integration to suggest music based on detected expressions. | C, Arduino, OpenCV, CNN |
+| **Privacy Preservation of Medical Records** | Developed a privacy-preserving data processing workflow combining PII redaction, k-anonymity, and differential privacy to reduce the exposure of sensitive information while supporting data analysis. | Python, Pandas, NLP, Scikit-learn |
+| **Personalized E-commerce Recommendation System** | Developed and experimented with personalized recommendation approaches combining graph-based learning and reinforcement learning. Used GraphSAGE, DQN, and Double DQN to model user interactions and improve recommendation strategies. *(Bellcorp Studio)* | Python, PyTorch, Graph Neural Networks, Reinforcement Learning |
+| **Adaptive Traffic Light System for Emergency Vehicle Prioritization** | Designed an intelligent traffic management system using YOLOv8 for emergency vehicle detection and LLM-guided signal-control decisions. Simulated traffic conditions using SUMO and TraCI. | Python, YOLOv8, LLM, SUMO, TraCI, Unity |
+| **Cine-Frenzy — Mobile App** | Developed an Android movie and TV series tracker featuring content discovery, title search, personalized watchlists, API integration, and local data storage. | Kotlin, Android Studio, Trakt API, Room Database |
+| **IoT-Based Emotion Detection & Music Suggestion** | Built a prototype combining computer vision, CNN-based facial emotion recognition, and Arduino integration to suggest music based on detected expressions. | C, Arduino, OpenCV, CNN |
 
 ---
 
 ### Areas of Interest
 
-**AI Engineering** · Generative AI · Machine Learning · Backend Development · Data Analytics · Software Engineering
+AI Engineering · Generative AI · Machine Learning · Backend Development · Data Analytics · Software Engineering
 
 ---
 
-**Currently focused on building reliable AI applications, improving LLM evaluation workflows, and developing production-oriented backend systems.**
+### Currently Exploring
+
+- Retrieval-Augmented Generation (RAG) and vector databases
+- LLM integration, tool calling, and AI agents
+- Model evaluation, prompt engineering, and structured AI outputs
+- FastAPI, asynchronous Python, and real-time backend systems
+- Reliable, testable, and maintainable AI applications
+
+---
+
+**Interested in building practical AI systems and collaborating on meaningful engineering projects.**
 
 [LinkedIn](https://www.linkedin.com/in/sanjeethprakash/) · [Portfolio](https://sanjeethprakash.framer.website/) · [Email](mailto:sanjeethprakash2004@gmail.com)
