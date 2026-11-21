@@ -52,7 +52,7 @@ My interests lie in developing practical AI solutions, integrating language mode
 ### Links & Resume
 
 - [LinkedIn](https://www.linkedin.com/in/sanjeethprakash/)
-- [Portfolio](https://sanjeethprakash.framer.website/)
+- [Portfolio](https://sanjeeth-portfolio.netlify.app)
 - [GitHub](https://github.com/Sanjeeth-Prakash)
 - [Contact me for my resume](mailto:sanjeethprakash2004@gmail.com)
 
@@ -142,4 +142,4 @@ AI Engineering · Generative AI · Machine Learning · Backend Development · Da
 
 **Interested in building practical AI systems and collaborating on meaningful engineering projects.**
 
-[LinkedIn](https://www.linkedin.com/in/sanjeethprakash/) · [Portfolio](https://sanjeethprakash.framer.website/) · [Email](mailto:sanjeethprakash2004@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/sanjeethprakash/) · [Portfolio](https://sanjeeth-portfolio.netlify.app) · [Email](mailto:sanjeethprakash2004@gmail.com)
