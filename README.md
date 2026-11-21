@@ -120,7 +120,7 @@ My interests lie in developing practical AI solutions, integrating language mode
 | **Personalized E-commerce Recommendation System** | Developed and experimented with personalized recommendation approaches combining graph-based learning and reinforcement learning. Used GraphSAGE, DQN, and Double DQN to model user interactions and improve recommendation strategies. *(Bellcorp Studio)* | Python, PyTorch, Graph Neural Networks, Reinforcement Learning |
 | **Adaptive Traffic Light System for Emergency Vehicle Prioritization** | Designed an intelligent traffic management system using YOLOv8 for emergency vehicle detection and LLM-guided signal-control decisions. Simulated traffic conditions using SUMO and TraCI. | Python, YOLOv8, LLM, SUMO, TraCI, Unity |
 | **Cine-Frenzy — Mobile App** | Developed an Android movie and TV series tracker featuring content discovery, title search, personalized watchlists, API integration, and local data storage. | Kotlin, Android Studio, Trakt API, Room Database |
-| **IoT-Based Emotion Detection & Music Suggestion** | Built a prototype combining computer vision, CNN-based facial emotion recognition, and Arduino integration to suggest music based on detected expressions. | C, Arduino, OpenCV, CNN |
+| **[SiteLens AI](https://github.com/Sanjeeth-Prakash/SiteLens-AI)** | Built an AI-powered website and SEO analysis tool that extracts public webpage content, retrieves supporting passages using embeddings, and generates structured business insights and recommendations with verifiable citations. | Python, FastAPI, Gemini, Ollama, RAG, Pydantic |
 
 ---
 
